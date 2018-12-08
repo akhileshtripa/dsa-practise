@@ -1,4 +1,8 @@
 package arrays;
+/**
+ * @author akhileshtripathi
+ *
+ */
 
 public class Test {
 
